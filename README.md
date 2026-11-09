@@ -120,7 +120,7 @@ Sua missão, agora? Assumir o controle do carro de Felpudo e acelerar pela rodov
 
 ## Jogue e assista
 
-* **Jogue no navegador:** [https://play.unity.com/pt/games/53dca8bf-328b-4e63-919e-7f2069b358b9/webgl-builds]
+* **Jogue no navegador:** [https://play.unity.com/pt/games/b157949c-679c-49a5-bd3a-81f0108c76c6/felpudos-race]
 * **Assista à gameplay:** [https://youtu.be/8YJCHCyVT6g?si=Bv47go68-t6PCvjU]
 
 ---
