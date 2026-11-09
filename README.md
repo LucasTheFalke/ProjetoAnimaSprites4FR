@@ -17,7 +17,8 @@ Your mission, now? The main Favela of the city got infested with fearsome lesmos
 
 ---
 
-##Enemies 
+## Enemies 
+
 LesmoBarrel: Static enemy. Causes damage to the player when collided with.
 LesmoWalk: Moving Enemy. Harder to dodge, he can also cause damage to Felpudo, but with a harder coordenation.
 
