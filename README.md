@@ -1,6 +1,6 @@
 ## Felpudo's Race🚗
 
-> A charming and fast-paced 2D arcade driving game where our fluffy hero, now hits the road for high-speed thrills!
+> A epic and fast-paced 2D arcade driving game where our fluffy hero, now hits the road for high-speed thrills!
 
 * **Play in your browser:** [https://play.unity.com/pt/games/b157949c-679c-49a5-bd3a-81f0108c76c6/felpudos-race]
 * **Watch gameplay:** [https://youtu.be/8YJCHCyVT6g?si=Bv47go68-t6PCvjU]]
