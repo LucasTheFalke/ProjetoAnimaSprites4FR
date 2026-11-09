@@ -38,7 +38,8 @@ LesmoWalk: Moving Enemy. Harder to dodge, he can also cause damage to Felpudo, b
 2. **Eliminate Threats:** Shoot down incoming balloon-slug enemies to meet your quota.
 3. **Collect & Win:** Gather **10 bananas** scattered along the track to achieve victory.
 4. **Controls:**
-* **W, A, S, D/ Fire:** Steer / Accelerate / Interact
+5. **Spacebar:** Fire your weapon
+* **W, A, S, D:** Steer / Accelerate 
 * **Spacebar:** Fire projectiles
 * **R:** Restart game upon victory or defeat
 
